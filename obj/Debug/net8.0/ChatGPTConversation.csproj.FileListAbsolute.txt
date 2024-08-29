@@ -1,0 +1,17 @@
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\ChatGPTConversation.exe
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\ChatGPTConversation.deps.json
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\ChatGPTConversation.runtimeconfig.json
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\ChatGPTConversation.dll
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\ChatGPTConversation.pdb
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.csproj.AssemblyReference.cache
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.AssemblyInfoInputs.cache
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.AssemblyInfo.cs
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.csproj.CoreCompileInputs.cache
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTC.5EA062F8.Up2Date
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.dll
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\refint\ChatGPTConversation.dll
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.pdb
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ChatGPTConversation.genruntimeconfig.cache
+C:\Users\jboschmann\Documents\Code Projects\ChatGPT Discussion\ChatGPTConversation\obj\Debug\net8.0\ref\ChatGPTConversation.dll
